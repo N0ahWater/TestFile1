@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0,TennisTV 1
 http://202.44.228.201:1935/aslive/skynetsports3/mono.m3u8
+#EXTINF:2,TennisTV 2
+rtmp://deu-nl.smoothstreams.tv:3635/viewstvn?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIyIDc6Mzc6NDUgQU0maGFzaF92YWx1ZT13dDZER2gxNVRFV3d2cTgzdHZvVEFnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD12aWV3c3R2bi04Mzgw/ch25q1.stream
