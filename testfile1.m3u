@@ -1,9 +1,5 @@
-#EXTINF:-1,BEIN SPORTS XTRA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 #EXTINF:-1,BEIN SPORTS XTRA Ã±
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-#EXTINF:-1,BELLATOR MMA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
 #EXTINF:-1,Bahrain Sports 1 (720p)
 http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
 #EXTINF:-1,Bein 1
@@ -39,14 +35,8 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 http://38.91.57.12:2082/espn/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ESPN
 http://45.161.188.242:88/#EXTM3U
-
-#EXTINF:-1,BEIN SPORTS XTRA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
-#EXTINF:-1,BEIN SPORTS XTRA Ã±
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-#EXTINF:-1,BELLATOR MMA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
-#EXTINF:-1,Bahrain Sports 1 (720p)
+#TINF:-1,Bahrain Sports 1 (720p)
 http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
 #EXTINF:-1,Bein 1
 http://145.239.142.113/BEIN-1-SD/playlist.m3u8
